@@ -1,2 +1,2 @@
 # OKYC
-OKYC will be use for Kotak Kyc verification.
+OKYC will be use for Kyc verification.
